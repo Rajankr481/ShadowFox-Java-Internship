@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# IDE settings (IntelliJ, Eclipse)
+.idea/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# Logs
+*.log
+
+# Build directories
+bin/
+out/
+target/
+
+# System files
+.DS_Store
+Thumbs.db
